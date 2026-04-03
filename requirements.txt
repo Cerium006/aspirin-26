@@ -1,3 +1,5 @@
 matplotlib
 numpy
 flask
+Pillow
+pygame
