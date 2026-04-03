@@ -12,7 +12,7 @@
 - Убедитесь, что у вас установлен Python 3.
 - Установите необходимые библиотеки:
 ```bash
-pip install matplotlib numpy
+pip install matplotlib numpy Pillow
 ```
 - Запустите основной скрипт:
 ```bash
