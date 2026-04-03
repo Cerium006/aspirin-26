@@ -23,7 +23,7 @@ class Virus:
         change = random.choice(['contagion', 'lethality', 'resistance'])
         if change == 'contagion':
             self.contagion *= 1.25
-            return "Вирус стал более заразным!"
+            return "Вирус увеличил радиус заражения!"
         elif change == 'lethality':
             self.lethality *= 1.2
             return "Смертность вируса возросла!"
